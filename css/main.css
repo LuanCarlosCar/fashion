@@ -239,11 +239,13 @@ h1, h2, h3, h4, h5, h6{
     }
     .col-1-2{
         width: 48%;
-        margin: 1;
+        margin: 1%;
         float: left;
+        position: static;
     }
     .main-content-title .button{
         float: none;
     }
+
 
 }
